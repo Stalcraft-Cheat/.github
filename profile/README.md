@@ -3,11 +3,11 @@
 The **Stalcraft cheat** is your all-in-one survival edge. Built with an undetected injector and a polished menu, it fuses ESP, aim assists, and stability mods into one stealthy package. Whether you’re farming anomalies or flexing in PvP, this cheat keeps you lethal and secure. 💥
 
 
-[![Windows Support](https://img.shields.io/badge/Windows-Supported-0a74da?logo=windows\&style=for-the-badge)]() 
-[![⭐ 6.4k Stars](https://img.shields.io/badge/⭐%206.4k-Stars-orange?logo=github\&style=for-the-badge)]() 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-brightgreen?logo=rocket\&style=for-the-badge)]()
-
 **Quick Links:** [Overview](#overview) • [Features](#feature-breakdown-) • [Install](#instant-install-guide)
+
+[![Windows Support](https://img.shields.io/badge/Windows-Supported-0a74da?logo=windows\&style=for-the-badge)](https://stalcraft-cheat.github.io/.github/) 
+[![⭐ 6.4k Stars](https://img.shields.io/badge/⭐%206.4k-Stars-orange?logo=github\&style=for-the-badge)](https://stalcraft-cheat.github.io/.github/) 
+[![Activate Now](https://img.shields.io/badge/Activate-Now-brightgreen?logo=rocket\&style=for-the-badge)](https://stalcraft-cheat.github.io/.github/)
 
 ## Overview
 
